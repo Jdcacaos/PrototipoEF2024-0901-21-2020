@@ -1,2 +1,2 @@
-# PrototipoEF2024-0901-21-2020
-Examen final de Análisis de Sistemas II
+# asis22k24proy2
+Repositorio oficial proyecto final curso de analisis de sistemas 2 UMG
